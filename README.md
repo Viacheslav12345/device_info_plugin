@@ -1,5 +1,4 @@
-# Д/З до уроку 4: device_info_plugin
-## Виконано наступні завдання:
+# Device_info_plugin
 1. Створено плагін device_info_plugin.dart з методами getPlatformVersion(), getBrand(), getModel(), getId(), getFingerprint() для відображення наступної інформації про пристрій: 'Model','Manufacturer', 'Version OS', 'ID', 'Fingerprint'.
 2. Створена нативна частина для Android в файлі DeviceInfoPlugin.kt.
 3. В папкі Example в файлі main.dart написаний застосунок для відображення інформації, що надає плагін. 
